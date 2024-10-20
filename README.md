@@ -1,4 +1,4 @@
-# BookStore :  Book Store is your personal library, offering a world of stories at your fingertips.
+# BookStore WEB APP :  Book Store is your personal library, offering a world of stories at your fingertips.
                With a vast collection of e-books, audiobooks, and personalized recommendations, 
                reading has never been this easy or exciting. Discover new worlds, 
                dive into adventures, and enjoy a seamless, 
